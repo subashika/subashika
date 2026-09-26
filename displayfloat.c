@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+	printf("Size of float: %zu bytes\n", sizeof (float));
+	return 0;
+}
